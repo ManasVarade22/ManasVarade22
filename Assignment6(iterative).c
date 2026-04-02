@@ -1,3 +1,5 @@
+#include<stdio.h>
+
 int factorial_iterative(int n) {
     int fact = 1;
 
